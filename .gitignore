@@ -1,0 +1,7 @@
+*.exe
+*.obj
+*.ilk
+*.pdb
+shots/
+release/
+shader_error.txt
